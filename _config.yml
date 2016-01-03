@@ -1,7 +1,7 @@
 title:            Innovation Garage
 description:      "IG: The Coolest workspace in NITW for students and wanna be entrepreneurs"
 logo:             ig.png
-disqus_shortname: innovationgarage
+disqus_shortname: innovationgaragenitw
 # Assign a default image for your site's header and footer
 default_bg:       default-ig-bg.jpg
 search:           true
